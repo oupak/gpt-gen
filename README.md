@@ -1,7 +1,7 @@
 # gpt-draw
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rom1504/img2dataset/blob/master/notebook/img2dataset_getting_started.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oOiYAX_lNiIOCya3NvQBMtO8GT2s-kEr?usp=sharing)
 
-The repository for the code and demo of GPT-Draw, a GPT-2 model trained from scratch to generate images.
+The repository for the code and demo of GPT-Draw, a GPT-2 model trained from scratch to generate images instead of text.
 
 See the [report](https://wandb.ai/bcs1/gptgen/reports/GPT-Gen-pretraining-GPT-2-for-text-to-image--Vmlldzo1MzU4NTk3) on Weights and Biases
 
