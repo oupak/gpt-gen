@@ -3,7 +3,13 @@
 
 The repository for the code and demo of GPT-Draw, a GPT-2 model trained from scratch to generate images instead of text.
 
-See the [report](https://wandb.ai/bcs1/gptgen/reports/GPT-Gen-pretraining-GPT-2-for-text-to-image--Vmlldzo1MzU4NTk3) on Weights and Biases
+See the [report](https://wandb.ai/bcs1/gptgen/reports/GPT-Gen-pretraining-GPT-2-for-text-to-image--Vmlldzo1MzU4NTk3) on Weights and Biases for training and architecture details
+
+## Capabilities
+- Image generation
+- Image completion
+
+Both can be unconditioned or conditioned on text.
 
 ## Sample outputs
 "early morning snowy mountain peak with blue sky"
